@@ -50,8 +50,9 @@ ai를 통해 대화를 요약하고 감정을 분석 후, 감정 데이터를 �
 - 랜딩 페이지 제작 및 스크롤 이벤트에 따른 인터랙션 구현
 - 랜딩 페이지, 마이페이지 반응형으로 구현
 - 감정 Badge 공통 컴포넌트 제작
-
+<br>
 ⚒ Client Skills
+<br>
 <div>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
@@ -76,8 +77,9 @@ ai를 통해 대화를 요약하고 감정을 분석 후, 감정 데이터를 �
 - 클래스 예약 캘린더 커스텀 및 날짜 선택 event 발생 시 예약 가능한 시간 api 호출하여 카드 슬라이더로 렌더링
 - zutstand 상태관리를 통해 예약 데이터 저장 및 장바구니에서 호출 가능하게 구현
 - 클래스 상세 화면 제작 및 탭 선택 시 anchor 이동 구현, 제작 할인 계산 함수 구현
-
+<br>
 ⚒ Client Skills
+<br>
 <div>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
