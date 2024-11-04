@@ -39,6 +39,7 @@
 <b>1. Emotree</b>
 <br><br>
 ai를 통해 대화를 요약하고 감정을 분석 후, 감정 데이터를 쌓아 나무를 성장시키는 인터랙티브 웹 서비스<br>
+<br>
 개발기간 | 2024.07.05 ~ 2024.08.04
 
 [Emotree 바로가기](https://emotree.yoyobar.xyz/)
@@ -69,6 +70,7 @@ ai를 통해 대화를 요약하고 감정을 분석 후, 감정 데이터를 �
 <b>2. Custom-K</b>
 <br><br>
 외국인 관광객을 위한 원데이클래스 예약 플랫폼 Custom-K와 협업 및 제작<br>
+<br>
 개발기간 | 2024.08.07 ~ 2024.09.10
 
 [레파지토리 바로가기](https://github.com/OZ-Coding-School/oz_03_collabo-002-FE?tab=readme-ov-file)
