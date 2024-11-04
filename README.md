@@ -1,7 +1,9 @@
 ## Introduction 👋
-웹 서비스의 퍼블리셔로 경력을 쌓아 개발팀, 디자인팀과 긴밀하게 소통하고 협업하여 화면을 구현했습니다.<br> 섬세한 UI 구현과 웹 접근성, 크로스 브라우징 이슈를 해결해 온 경험을 바탕으로 효율적이고 사용자 친화적인 화면을 개발합니다.<br> 퍼블리셔로서의 감각을 개발에 접목하여 코드의 품질을 유지하면서도 사용자 경험을 극대화하는 화면을 구현하고자 합니다.<br><br>
+8년 차 퍼블리셔 출신, 주니어 프론트엔드 개발자 박민아입니다.
 
-팀의 목표를 함께 달성하고. 사용자에게 더 나은 경험을 제공하는 데 기여하는 프론트엔드 개발자가 되겠습니다.<br><br>
+웹 서비스의 퍼블리셔로 경력을 쌓아 개발팀, 디자인팀과 긴밀하게 소통하고 협업하여 화면을 구현했습니다. 섬세한 UI 구현과 웹 접근성, 크로스 브라우징 이슈를 해결해 온 경험을 바탕으로 효율적이고 사용자 친화적인 화면을 개발합니다. 퍼블리셔로서의 감각을 개발에 접목하여 코드의 품질을 유지하면서도 사용자 경험을 극대화하는 화면을 구현하고자 합니다.
+
+팀의 목표를 함께 달성하고. 사용자에게 더 나은 경험을 제공하는 데 기여하는 프론트엔드 개발자가 되겠습니다.
 
 [핵심 역량]<br>
 - 개발팀, 디자인팀과의 긴밀한 소통을 통해 반응형 웹사이트와 효과적인 인터랙티브 구현<br>
@@ -29,6 +31,31 @@
       src="https://img.shields.io/badge/devpma9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+## Featured Projects 💡
+
+1. Custom-K
+외국인 관광객을 위한 원데이클래스 예약 플랫폼 Custom-K와 협업 및 제작
+
+[레파지토리 바로가기](https://github.com/OZ-Coding-School/oz_03_collabo-002-FE?tab=readme-ov-file)
+
+- 메인 화면 모바일 웹 사이즈로 전체적인 레이아웃 제작 및 header, footer, 클래스 카드 등 공통 컨포넌트 제작
+- 클래스 예약 캘린더 커스텀 및 날짜 선택 event 발생 시 예약 가능한 시간 api 호출하여 카드 슬라이더로 렌더링
+- zutstand 상태관리를 통해 예약 데이터 저장 및 장바구니에서 호출 가능하게 구
+- 클래스 상세 화면 제작 및 탭 선택 시 anchor 이동 구현, 제작 할인 계산 함수 구현
+
+Client Skills
+<div>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zutstand-fcba03?style=flat-square&logo=Zotero&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReactHook-Form-EC5990?style=flat-square&logo=ReactHookForm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tailwindCSS-06B6D4?style=flat-square&logo=TailwindCss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=Swiper&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>
+</div>
+
 
 
 <!--
